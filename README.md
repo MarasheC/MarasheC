@@ -1,0 +1,2 @@
+Hello there! My name is Clement Marashe. My background is in Animation. Through that course, I interacted with little Python coding. Here I am after 4 years of animating wanting to learn more about websites, app coding, and interesting things like that.
+My goal is to increase my skills pool and get to learn more from the experts' interactions which I'm sure I'll meet during my practice. See you all within the web of codes.
